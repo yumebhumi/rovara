@@ -1,0 +1,22 @@
+<svg width="920" height="240" viewBox="0 0 920 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(8 8)">
+    <circle cx="108" cy="108" r="98" stroke="#DCE7E1" stroke-width="4" opacity="0.9"/>
+    <path d="M28 130C49 107 67 90 83 78C102 64 123 57 146 58" stroke="#DCE7E1" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M148 60C166 61 181 66 194 74" stroke="#DCE7E1" stroke-width="3.5" stroke-linecap="round" opacity="0.75"/>
+    <circle cx="72" cy="79" r="21" fill="#C6A460" opacity="0.9"/>
+    <path d="M51 134L83 92L100 117L127 80L164 134" stroke="#E9F1EC" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M65 134L103 101L126 116L148 97" stroke="#8FE3CF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.82"/>
+    <path d="M68 165C87 149 103 148 124 165" stroke="#8FE3CF" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M100 165C110 160 120 160 132 165" stroke="#E9F1EC" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+    <path d="M157 50L188 61L171 85L168 64L149 55L157 50Z" fill="#DCE7E1"/>
+    <path d="M147 107L157 81" stroke="#DCE7E1" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    <path d="M40 140L49 105L57 140" stroke="#DCE7E1" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.72"/>
+    <path d="M156 140L165 98L174 140" stroke="#DCE7E1" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.72"/>
+    <path d="M58 79H88" stroke="#E9F1EC" stroke-width="2.8" stroke-linecap="round" opacity="0.8"/>
+    <path d="M113 72H150" stroke="#E9F1EC" stroke-width="2.8" stroke-linecap="round" opacity="0.7"/>
+    <path d="M100 88H126" stroke="#E9F1EC" stroke-width="2.8" stroke-linecap="round" opacity="0.7"/>
+  </g>
+  <text x="258" y="146" fill="#EAF2ED" font-size="122" letter-spacing="10" font-family="Cormorant Garamond, Georgia, Times New Roman, serif">
+    ROVARA
+  </text>
+</svg>
